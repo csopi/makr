@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EpitoIpari>
+  <Klasszifikacios>
+    <Rendszer>
+      <Neve>MAKR</Neve>
+      <Verzio>Május 2023</Verzio>
+      <KiadasDatuma>
+        <Ev>2023</Ev>
+        <Honap>május</Honap>
+        <nap>18</nap>
+      </KiadasDatuma>
+      <Leiras>A Magyarországon alkalmazni tervezett építőipari klasszifikációs rendszer - KIVONAT!</Leiras>
+      <Forras>Ideiglenes link - https://github.com/csopi/makr</Forras>
+      <KarbantartoSzervezet>Később kerül kijelölésre</KarbantartoSzervezet>
+      <Elemek>
+        <Elem>
+          <ID>An</ID>
+          <Megnevezes>Anyagok</Megnevezes>
+          <Leiras/>
+          <Gyerek>
+            <Elem>
+              <ID>An-20</ID>
+              <Megnevezes>Szervetlen/ szerves anyagok kombinációja</Megnevezes>
+              <Leiras/>
+                <Gyerek>
+                  <Elem>
+                    <ID>An-20-01</ID>
+                    <Megnevezes>Vályog</Megnevezes>
+                    <Leiras/>
+                  </Elem>
+                  <Elem>
+                    <ID>An-20-03</ID>
+                    <Megnevezes>Aggregátumok</Megnevezes>
+                    <Leiras/>
+                        <Gyerek>
+                          <ID>An-20-03-02</ID>
+                          <Megnevezes>Léghűtött acélsalak</Megnevezes>
+                          <Leiras/>
+                        </Gyerek>
+                        <Gyerek>
+                          <ID>An-20-03-04</ID>
+                          <Megnevezes>Normál és nagy tömegű aggregátumok</Megnevezes>
+                          <Leiras/>
+                        </Gyerek>
+                  </Elem>
+                </Gyerek>
+            </Elem>
+          </Gyerek>
+        </Elem>
+        <Elem>
+          <ID>Re</ID>
+          <Megnevezes>Rendszerek</Megnevezes>
+          <Leiras/>
+          <Gyerek>
+            <Elem>
+              <ID>Re-15</ID>
+              <Megnevezes>Földmunkák, helyreállítás és ideiglenes rendszerek</Megnevezes>
+              <Leiras/>
+                <Gyerek>
+                  <Elem>
+                    <ID>Re-15-10</ID>
+                    <Megnevezes>Földmunkák és földmunkarendszerek</Megnevezes>
+                    <Leiras/>
+                  </Elem>
+                  <Elem>
+                    <ID>Re-15-30</ID>
+                    <Megnevezes>Földmunkák és földmunkarendszerek</Megnevezes>
+                    <Leiras/>
+                  </Elem>
+                  <Elem>
+                    <ID>Re-15-95</ID>
+                    <Megnevezes>Ideiglenes munkák rendszerei</Megnevezes>
+                    <Leiras/>
+                  </Elem>
+                    <Gyerek>
+                      <ID>Re-15-95-15</ID>
+                      <Megnevezes>Ideiglenes előkészítő munkák rendszerei</Megnevezes>
+                      <Leiras/>
+                    </Gyerek>
+                    <Gyerek>
+                      <ID>Re-15-95-32</ID>
+                      <Megnevezes>Ülepítő tavak</Megnevezes>
+                      <Leiras/>
+                    </Gyerek>
+                </Gyerek>
+            </Elem>
+          </Gyerek>
+        </Elem>
+      </Elemek>
+    </Rendszer>
+  </Klasszifikacios>
+</EpitoIpari>
